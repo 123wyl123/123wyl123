@@ -1,7 +1,7 @@
 ### Welcome! I'm wyl 👋
 
 <a href="https://github.com/123wyl123">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=xmmmmmovo&show_icons=true&count_private=true&hide=issues&hide_title=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=123wyl123&show_icons=true&count_private=true&hide=issues&hide_title=true" />
 </a>
 
 - 🕹 I’m currently wasting time on bilibili

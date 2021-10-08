@@ -5,7 +5,7 @@
 </a>
 
 - 🕹 I’m currently wasting time on bilibili
-- 🔊 I’m currently learning `MYSQL` and `JUC`
+- 🔊 I’m currently learning `Go` 
 - 🤣 Code language: java, python......
 - 🤔 Now I'm interest in `Database`
 - 🤓 Some projects: 
